@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631256091 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd02\maintabel.c
+	<stdio.h>
+	"tabel.h"
+	"boolean.h"
+
+1631205670 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd02\tabel.h
+	<stdio.h>
+	"boolean.h"
+
+1631205678 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd02\boolean.h
+
+1631257172 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd02\tabel.c
+	<stdio.h>
+	"tabel.h"
+

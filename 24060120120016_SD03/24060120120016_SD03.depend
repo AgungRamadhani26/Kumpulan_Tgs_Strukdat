@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1631590900 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\mainstack.c
+	<stdio.h>
+	"tstack.h"
+	"boolean.h"
+
+1631879840 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\tstack.c
+	<stdio.h>
+	"tstack.h"
+
+1631879556 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\tstack.h
+	"boolean.h"
+
+1631879263 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\boolean.h
+
+1631590601 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\tstack.c
+	<stdio.h>
+	"tstack.h"
+	"boolean.h"
+
+1631882810 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd03\maintstack.c
+	<stdio.h>
+	"tstack.h"
+

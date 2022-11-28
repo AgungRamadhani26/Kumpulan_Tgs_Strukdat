@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638281700 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd11\listdoublelinier.c
+	<stdio.h>
+	<stdlib.h>
+	"listDoubleLinier.h"
+
+1638280655 c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd11\listdoublelinier.h
+	<stdio.h>
+	<stdlib.h>
+
+1638282644 source:c:\users\agung\documents\tugassem3\tugaspraktikumstrukdat\24060120120016_sd11\driverlistdoublelinier.c
+	<stdio.h>
+	<stdlib.h>
+	"listDoubleLinier.h"
+
